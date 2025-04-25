@@ -2,7 +2,7 @@ import qrcode
 from PIL import Image
 
 # Enlace de tu menú (puede ser de OneDrive, Google Drive, etc.)
-url = "https://andrs26.github.io/berrychill/"
+url = "https://berrychillhn.github.io/menu/"
 
 # Crear código QR básico
 qr = qrcode.QRCode(
