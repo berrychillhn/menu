@@ -15,7 +15,7 @@ qr.make(fit=True)
 img_qr = qr.make_image(fill_color="black", back_color="white").convert('RGB')
 
 # Abrir logo
-logo = Image.open('logo.png')  # Usa tu logo aquí
+logo = Image.open('logoberry.png')  # Usa tu logo aquí
 
 # Calcular tamaño proporcional
 qr_width, qr_height = img_qr.size
